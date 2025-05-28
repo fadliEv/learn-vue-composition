@@ -7,8 +7,9 @@
 import Index from './bab-1/Index2.vue'
 // import Index from './lifecycle/Index.vue'
 // import Index from './todo/Index.vue'
+import ProductManagement from './bab-2/extract-component/props-emits/ProductManagement.vue';
 </script>
 
 <template>
-  <Index/>
+  <ProductManagement/>
 </template> 
