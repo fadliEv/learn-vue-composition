@@ -10,7 +10,8 @@
 // import ProductManagement from './bab-2/extract-component/props-emits/ProductManagement.vue';
 // import ParentComponent from './bab-2/extract-component/provide-inject/ParentComponent.vue';
 // import ParentComponent from './bab-2/extract-component/provide-inject/ParentComponent.vue';
-import TodoApp from './bab-2/slot/todo/TodoApp.vue';
+// import TodoApp from './bab-3/transition/TodoApp.vue';
+import Index from './latihan-todo/Index.vue'
 </script>
 
 <template>
@@ -19,5 +20,6 @@ import TodoApp from './bab-2/slot/todo/TodoApp.vue';
     <!-- <Parent/> -->
      <!-- <ProjectMagement/> -->
       <!-- <Parent/> -->
-       <TodoApp/>
+       <!-- <TodoApp/> -->
+      <Index/>
 </template> 
